@@ -1,14 +1,16 @@
 h1 {
 	margin: auto;
 	color: red;
+	font-family: "Verdana", sans-serif;
 }
 p {
 	margin: auto;
 	color: blue;
+	font-family: "Lucida Console", monospace;
 }
-img {
+.pics img {
 	margin: auto
-	height:100px
-	width:100px;
+	height:50%;
+	width:auto;
 	border: 2 px solid black;
 }
