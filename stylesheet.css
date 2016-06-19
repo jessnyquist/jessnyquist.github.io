@@ -1,4 +1,4 @@
-h1 {
+.head {
 	margin: auto;
 	color: red;
 	font-family: "Verdana", sans-serif;
@@ -10,7 +10,7 @@ p {
 }
 .pics img {
 	margin: auto
-	height:50%;
-	width:auto;
+	height:120px;
+	width: auto;
 	border: 2 px solid black;
 }
