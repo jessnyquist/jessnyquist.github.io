@@ -8,8 +8,10 @@ p {
 	color: blue;
 	font-family: "Lucida Console", monospace;
 }
+.pics {
+	margin: auto;
+}
 .pics img {
-	margin: auto
 	height:120px;
 	width: auto;
 	border: 2 px solid black;
